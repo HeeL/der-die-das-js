@@ -1,0 +1,7 @@
+*.log
+.DS_Store
+.idea/
+.eslintcache
+build/
+logs/
+node_modules/
